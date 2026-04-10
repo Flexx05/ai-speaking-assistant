@@ -1,0 +1,15 @@
+<template>
+  <NuxtPage />
+</template>
+
+<style>
+*, *::before, *::after {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #f0f4f8;
+  font-family: 'Inter', sans-serif;
+}
+</style>
