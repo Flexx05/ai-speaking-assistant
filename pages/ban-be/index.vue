@@ -239,7 +239,7 @@
               </div>
               <span
                 class="bg-cyan-100 text-teal-700 text-[9px] font-black px-2 py-[2px] rounded-[6px]"
-                >B1</span
+                >HSK 1</span
               >
             </div>
 
@@ -269,7 +269,7 @@
               </div>
               <span
                 class="bg-cyan-100 text-teal-700 text-[9px] font-black px-2 py-[2px] rounded-[6px]"
-                >A2</span
+                >HSK 2</span
               >
             </div>
 
@@ -299,7 +299,7 @@
               </div>
               <span
                 class="bg-slate-200 text-slate-500 text-[9px] font-black px-2 py-[2px] rounded-[6px]"
-                >B2</span
+                >HSK 4</span
               >
             </div>
 
@@ -331,7 +331,7 @@
               </div>
               <span
                 class="bg-slate-200 text-slate-400 text-[9px] font-black px-2 py-[2px] rounded-[6px]"
-                >C1</span
+                >HSK 5</span
               >
             </div>
           </div>
@@ -361,21 +361,48 @@ useHead({ title: "Bạn bè · AI Speaking Assistant" });
 
 <style scoped>
 @keyframes fadeIn {
-  from { opacity: 0; }
-  to { opacity: 1; }
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
 }
 @keyframes fadeInLeft {
-  from { opacity: 0; transform: translateX(-20px); }
-  to { opacity: 1; transform: translateX(0); }
+  from {
+    opacity: 0;
+    transform: translateX(-20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
 }
 @keyframes fadeInRight {
-  from { opacity: 0; transform: translateX(20px); }
-  to { opacity: 1; transform: translateX(0); }
+  from {
+    opacity: 0;
+    transform: translateX(20px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
 }
 
-.animate-fade-in { animation: fadeIn 0.6s ease-out forwards; opacity: 0; }
-.animate-fade-in-left { animation: fadeInLeft 0.6s ease-out forwards; opacity: 0; }
-.animate-fade-in-right { animation: fadeInRight 0.6s ease-out forwards; opacity: 0; }
+.animate-fade-in {
+  animation: fadeIn 0.6s ease-out forwards;
+  opacity: 0;
+}
+.animate-fade-in-left {
+  animation: fadeInLeft 0.6s ease-out forwards;
+  opacity: 0;
+}
+.animate-fade-in-right {
+  animation: fadeInRight 0.6s ease-out forwards;
+  opacity: 0;
+}
 
-.anim-delay-100 { animation-delay: 100ms; }
+.anim-delay-100 {
+  animation-delay: 100ms;
+}
 </style>
