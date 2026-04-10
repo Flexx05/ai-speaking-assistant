@@ -231,7 +231,9 @@
             <div
               class="w-[70px] h-[70px] bg-white rounded-full flex items-center justify-center shadow-[0_4px_12px_rgba(0,0,0,0.05)] border border-slate-100"
             >
-              <i class="fa-solid fa-sparkles text-[26px] text-[#AC652A]"></i>
+              <i
+                class="fa-solid fa-wand-sparkles text-[26px] text-[#AC652A]"
+              ></i>
             </div>
             <span
               class="absolute -bottom-1 -right-2 bg-[#004751] text-white text-[10px] font-bold px-2.5 py-0.5 rounded-full border-2 border-white shadow-sm"
