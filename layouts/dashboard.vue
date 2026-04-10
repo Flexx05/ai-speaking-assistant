@@ -17,9 +17,7 @@
       ]"
     >
       <!-- Logo -->
-      <div
-        class="px-5 pb-5 border-b border-slate-100 flex items-center justify-between"
-      >
+      <div class="px-5 pb-5 border-b border-slate-100 flex items-center justify-between">
         <span class="text-xl font-bold text-blue-700 leading-tight"
           >AI Speaking Assistant</span
         >
@@ -33,9 +31,7 @@
 
       <!-- User Info -->
       <div class="flex items-center gap-3 mx-3 my-4 p-3 bg-slate-50 rounded-xl">
-        <div
-          class="w-10 h-10 rounded-full overflow-hidden bg-blue-100 flex-shrink-0"
-        >
+        <div class="w-10 h-10 rounded-full overflow-hidden bg-blue-100 flex-shrink-0">
           <img
             src="~/assets/images/433966299_919881073210081_7511676866786403341_n.jpg"
             alt="Avatar"
@@ -61,8 +57,16 @@
                   : 'hover:text-blue-700 hover:bg-slate-50'
               "
             >
-              <i :class="[item.icon, 'w-[18px] text-[15px] flex-shrink-0']"></i>
-              <span>{{ item.label }}</span>
+              <i
+                :class="[
+                  item.icon,
+                  'w-[18px] text-[15px] flex-shrink-0',
+                  isActive(item.path) ? 'text-blue-700' : 'text-slate-400',
+                ]"
+              ></i>
+              <span :class="isActive(item.path) ? 'text-blue-700' : 'text-slate-500'">{{
+                item.label
+              }}</span>
               <!-- Active bar -->
               <span
                 v-if="isActive(item.path)"
@@ -140,6 +144,6 @@ watch(
   () => route.path,
   () => {
     if (isSidebarOpen.value) isSidebarOpen.value = false;
-  },
+  }
 );
 </script>
