@@ -515,38 +515,6 @@
               </div>
             </div>
           </section>
-
-          <!-- Mở khóa Scholar Plus -->
-          <section class="mt-2">
-            <div
-              class="bg-[#0B3A82] rounded-[32px] p-8 text-white relative overflow-hidden shadow-lg shadow-blue-900/20 group"
-            >
-              <!-- Decor -->
-              <i
-                class="fa-solid fa-star absolute -bottom-12 -right-12 text-[200px] text-white/5 group-hover:scale-110 group-hover:rotate-12 transition-transform duration-700"
-              ></i>
-              <div
-                class="absolute top-0 right-0 w-64 h-64 bg-white/5 rounded-full blur-3xl group-hover:bg-white/10 transition-colors duration-700 pointer-events-none"
-              ></div>
-
-              <div class="relative z-10 flex flex-col h-full">
-                <h2 class="text-[26px] font-black leading-tight mb-4 tracking-tight">
-                  Mở khóa Scholar Plus
-                </h2>
-                <p
-                  class="text-[14.5px] text-blue-100 mb-8 leading-relaxed max-w-[90%] font-medium"
-                >
-                  Nhận gấp đôi XP, không giới hạn lượt thực hành và nhiều nội dung độc
-                  quyền.
-                </p>
-                <button
-                  class="w-max bg-white text-[#0B3A82] font-black text-[15px] px-8 py-3.5 rounded-[18px] hover:bg-slate-100 transition-all shadow-sm active:scale-95 hover:-translate-y-0.5 mt-auto"
-                >
-                  Nâng cấp ngay
-                </button>
-              </div>
-            </div>
-          </section>
         </div>
       </div>
     </div>
