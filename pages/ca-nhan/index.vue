@@ -45,8 +45,7 @@
               <span
                 class="px-3.5 py-1.5 bg-[#EEF2FF] text-[#4F46E5] text-[13px] font-bold rounded-full flex items-center gap-1.5"
               >
-                <i class="fa-solid fa-fire text-[#4F46E5]"></i> 15 Ngày Liên
-                Tiếp
+                <i class="fa-solid fa-fire text-[#4F46E5]"></i> 5 Ngày Liên Tiếp
               </span>
             </div>
 
@@ -110,9 +109,7 @@
           >
             TỔNG XP
           </div>
-          <div class="text-[28px] font-black text-[#0B3A82] leading-none">
-            12,450
-          </div>
+          <div class="text-[28px] font-black text-[#0B3A82] leading-none">12,450</div>
         </div>
         <!-- Stat Item 2 -->
         <div
@@ -123,9 +120,7 @@
           >
             THỜI GIAN HỌC
           </div>
-          <div class="text-[28px] font-black text-[#0B3A82] leading-none">
-            42 giờ
-          </div>
+          <div class="text-[28px] font-black text-[#0B3A82] leading-none">42 giờ</div>
         </div>
         <!-- Stat Item 3 -->
         <div
@@ -136,9 +131,7 @@
           >
             KHÓA HỌC
           </div>
-          <div class="text-[28px] font-black text-[#0B3A82] leading-none">
-            08
-          </div>
+          <div class="text-[28px] font-black text-[#0B3A82] leading-none">08</div>
         </div>
         <!-- Stat Item 4 -->
         <div
@@ -149,9 +142,7 @@
           >
             HẠNG GOLD
           </div>
-          <div class="text-[28px] font-black text-[#0B3A82] leading-none">
-            #03
-          </div>
+          <div class="text-[28px] font-black text-[#0B3A82] leading-none">#03</div>
         </div>
       </div>
 
@@ -186,9 +177,7 @@
                   alt="Felix Đ."
                   class="w-[60px] h-[60px] rounded-full object-cover shadow-sm mb-3 border-[2.5px] border-slate-50 bg-slate-100"
                 />
-                <h3 class="text-[14px] font-bold text-slate-900 mb-2">
-                  Felix Đ.
-                </h3>
+                <h3 class="text-[14px] font-bold text-slate-900 mb-2">Felix Đ.</h3>
                 <span
                   class="bg-[#E0E7FF] text-[#4338CA] text-[10px] font-black px-2.5 py-0.5 rounded-full"
                   >HSK 4</span
@@ -204,9 +193,7 @@
                   alt="Trang Linh"
                   class="w-[60px] h-[60px] rounded-full object-cover shadow-sm mb-3 border-[2.5px] border-slate-50 bg-slate-100"
                 />
-                <h3 class="text-[14px] font-bold text-slate-900 mb-2">
-                  Trang Linh
-                </h3>
+                <h3 class="text-[14px] font-bold text-slate-900 mb-2">Trang Linh</h3>
                 <span
                   class="bg-[#FEF08A] text-[#854D0E] text-[10px] font-black px-2.5 py-0.5 rounded-full"
                   >HSK 2</span
@@ -226,9 +213,7 @@
                   alt="Quốc Minh"
                   class="w-[60px] h-[60px] rounded-full object-cover shadow-sm mb-3 border-[2.5px] border-slate-50 bg-slate-100"
                 />
-                <h3 class="text-[14px] font-bold text-slate-900 mb-2">
-                  Quốc Minh
-                </h3>
+                <h3 class="text-[14px] font-bold text-slate-900 mb-2">Quốc Minh</h3>
                 <span
                   class="bg-[#FFEDD5] text-[#C2410C] text-[10px] font-black px-2.5 py-0.5 rounded-full"
                   >HSK 3</span
@@ -244,9 +229,7 @@
                   alt="Sarah J."
                   class="w-[60px] h-[60px] rounded-full object-cover shadow-sm mb-3 border-[2.5px] border-slate-50 bg-slate-100"
                 />
-                <h3 class="text-[14px] font-bold text-slate-900 mb-2">
-                  Sarah J.
-                </h3>
+                <h3 class="text-[14px] font-bold text-slate-900 mb-2">Sarah J.</h3>
                 <span
                   class="bg-[#E0E7FF] text-[#4338CA] text-[10px] font-black px-2.5 py-0.5 rounded-full"
                   >HSK 1</span
@@ -276,14 +259,10 @@
                   >
                     Giới thiệu bản thân
                   </h3>
-                  <p class="text-[12px] font-medium text-slate-500">
-                    Luyện nói • HSK 3
-                  </p>
+                  <p class="text-[12px] font-medium text-slate-500">Luyện nói • HSK 3</p>
                 </div>
                 <div class="flex flex-col items-end shrink-0">
-                  <span class="text-[15px] font-black text-[#0B3A82]"
-                    >+45 XP</span
-                  >
+                  <span class="text-[15px] font-black text-[#0B3A82]">+45 XP</span>
                   <span
                     class="text-[10px] font-bold text-slate-400 mt-1 uppercase tracking-wide"
                     >Hôm qua</span
@@ -306,14 +285,10 @@
                   >
                     Đặt món ăn tại nhà hàng
                   </h3>
-                  <p class="text-[12px] font-medium text-slate-500">
-                    Luyện nói • HSK 3
-                  </p>
+                  <p class="text-[12px] font-medium text-slate-500">Luyện nói • HSK 3</p>
                 </div>
                 <div class="flex flex-col items-end shrink-0">
-                  <span class="text-[15px] font-black text-[#0B3A82]"
-                    >+30 XP</span
-                  >
+                  <span class="text-[15px] font-black text-[#0B3A82]">+30 XP</span>
                   <span
                     class="text-[10px] font-bold text-slate-400 mt-1 uppercase tracking-wide"
                     >3 ngày trước</span
@@ -336,14 +311,10 @@
                   >
                     Mô tả kỳ nghỉ hè
                   </h3>
-                  <p class="text-[12px] font-medium text-slate-500">
-                    Luyện nói • HSK 2
-                  </p>
+                  <p class="text-[12px] font-medium text-slate-500">Luyện nói • HSK 2</p>
                 </div>
                 <div class="flex flex-col items-end shrink-0">
-                  <span class="text-[15px] font-black text-[#0B3A82]"
-                    >+50 XP</span
-                  >
+                  <span class="text-[15px] font-black text-[#0B3A82]">+50 XP</span>
                   <span
                     class="text-[10px] font-bold text-slate-400 mt-1 uppercase tracking-wide"
                     >Tuần trước</span
@@ -359,14 +330,10 @@
               class="bg-white rounded-[32px] p-8 shadow-[0_2px_16px_rgba(0,0,0,0.02)] border border-slate-100 min-h-[300px] flex flex-col relative overflow-hidden"
             >
               <div class="flex items-center justify-between mb-auto">
-                <h2 class="text-[18px] font-bold text-slate-900">
-                  Tiến độ tuần này
-                </h2>
+                <h2 class="text-[18px] font-bold text-slate-900">Tiến độ tuần này</h2>
                 <div class="flex items-center gap-2">
                   <span class="w-2.5 h-2.5 rounded-full bg-[#0B3A82]"></span>
-                  <span class="text-[12px] font-medium text-slate-600"
-                    >XP Mỗi Ngày</span
-                  >
+                  <span class="text-[12px] font-medium text-slate-600">XP Mỗi Ngày</span>
                 </div>
               </div>
 
@@ -378,48 +345,32 @@
                 <div
                   class="absolute inset-0 flex flex-col justify-between -z-10 h-full w-full opacity-30"
                 >
-                  <div
-                    class="w-full border-t border-dashed border-slate-300"
-                  ></div>
-                  <div
-                    class="w-full border-t border-dashed border-slate-300"
-                  ></div>
-                  <div
-                    class="w-full border-t border-dashed border-slate-300"
-                  ></div>
-                  <div
-                    class="w-full border-t border-dashed border-slate-300"
-                  ></div>
+                  <div class="w-full border-t border-dashed border-slate-300"></div>
+                  <div class="w-full border-t border-dashed border-slate-300"></div>
+                  <div class="w-full border-t border-dashed border-slate-300"></div>
+                  <div class="w-full border-t border-dashed border-slate-300"></div>
                 </div>
 
                 <!-- Bars mock -->
-                <div
-                  class="flex flex-col items-center w-[12%] h-full justify-end group"
-                >
+                <div class="flex flex-col items-center w-[12%] h-full justify-end group">
                   <div
                     class="w-full max-w-[40px] bg-slate-100 rounded-t-xl group-hover:bg-slate-200 transition-colors"
                     style="height: 35%"
                   ></div>
                 </div>
-                <div
-                  class="flex flex-col items-center w-[12%] h-full justify-end group"
-                >
+                <div class="flex flex-col items-center w-[12%] h-full justify-end group">
                   <div
                     class="w-full max-w-[40px] bg-slate-100 rounded-t-xl group-hover:bg-slate-200 transition-colors"
                     style="height: 45%"
                   ></div>
                 </div>
-                <div
-                  class="flex flex-col items-center w-[12%] h-full justify-end group"
-                >
+                <div class="flex flex-col items-center w-[12%] h-full justify-end group">
                   <div
                     class="w-full max-w-[40px] bg-slate-100 rounded-t-xl group-hover:bg-slate-200 transition-colors"
                     style="height: 20%"
                   ></div>
                 </div>
-                <div
-                  class="flex flex-col items-center w-[12%] h-full justify-end group"
-                >
+                <div class="flex flex-col items-center w-[12%] h-full justify-end group">
                   <div
                     class="w-full max-w-[40px] bg-slate-100 rounded-t-xl group-hover:bg-slate-200 transition-colors"
                     style="height: 60%"
@@ -438,17 +389,13 @@
                     style="height: 85%"
                   ></div>
                 </div>
-                <div
-                  class="flex flex-col items-center w-[12%] h-full justify-end group"
-                >
+                <div class="flex flex-col items-center w-[12%] h-full justify-end group">
                   <div
                     class="w-full max-w-[40px] bg-slate-100 rounded-t-xl group-hover:bg-slate-200 transition-colors"
                     style="height: 0%"
                   ></div>
                 </div>
-                <div
-                  class="flex flex-col items-center w-[12%] h-full justify-end group"
-                >
+                <div class="flex flex-col items-center w-[12%] h-full justify-end group">
                   <div
                     class="w-full max-w-[40px] bg-slate-100 rounded-t-xl group-hover:bg-slate-200 transition-colors"
                     style="height: 0%"
@@ -583,16 +530,14 @@
               ></div>
 
               <div class="relative z-10 flex flex-col h-full">
-                <h2
-                  class="text-[26px] font-black leading-tight mb-4 tracking-tight"
-                >
+                <h2 class="text-[26px] font-black leading-tight mb-4 tracking-tight">
                   Mở khóa Scholar Plus
                 </h2>
                 <p
                   class="text-[14.5px] text-blue-100 mb-8 leading-relaxed max-w-[90%] font-medium"
                 >
-                  Nhận gấp đôi XP, không giới hạn lượt thực hành và nhiều nội
-                  dung độc quyền.
+                  Nhận gấp đôi XP, không giới hạn lượt thực hành và nhiều nội dung độc
+                  quyền.
                 </p>
                 <button
                   class="w-max bg-white text-[#0B3A82] font-black text-[15px] px-8 py-3.5 rounded-[18px] hover:bg-slate-100 transition-all shadow-sm active:scale-95 hover:-translate-y-0.5 mt-auto"
